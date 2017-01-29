@@ -1,0 +1,149 @@
+/* this is CSS file for styling the pages */
+body {
+    background-color: #F7F9F9;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.blog-head {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+}
+
+.login-logout {
+    margin: 1.5px 0 1.0px 0;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.new-post {
+    text-align: center;
+}
+
+.main-content {
+    background-color: ;
+}
+
+label {
+    font-size: 20px;
+    padding: 4px;
+    color: black;
+}
+
+label + label {
+    margin-top: 33px;
+}
+
+.error,
+.col_error {
+    color: red;
+}
+
+h1 {
+    color: #5499C7;
+}
+
+.welcome {
+    font-family: Arial;
+    font-size: 40px;
+    color: #EC7063;
+}
+
+.blog-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px 0 3px 0;
+}
+
+.blog-title,
+.blog-date {
+    height: 35px;
+}
+
+.blog-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.blog-date {
+    color: #999;
+    margin: 30px 0 3px 0;
+}
+
+.last-modified {
+    color: #999;
+    margin-top: 20px;
+}
+
+.date-span {
+    position: absolute;
+    bottom: 5px;
+    right: 0;
+}
+
+.blog-content {
+    white-space: pre-wrap;
+    font-size: 20px;
+    margin: 0;
+}
+
+.comment-content {
+    white-space: pre-wrap;
+}
+
+.author-name {
+    color: #CD6155;
+    margin: 15px 0 15px 0;
+    font-size: 20px;
+}
+
+.line {
+    margin: 0;
+}
+
+.like_error {
+    color: red;
+}
+
+.edit-post {
+    margin-top: 6px;
+}
+
+.comment-by-author {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #CD6155;
+}
+
+.comment-content {
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.author-comment {
+    color: #212F3C;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.comments {
+    color: #2E4053;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.blog-delete-title {
+    font-size: 20px;
+    font-weight: bold;
+    height: 35px;
+}
+
+.blog-delete-content, .delete-comment-content {
+    margin: 12px 0 10px 0;
+}
