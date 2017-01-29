@@ -29,5 +29,4 @@ Multi-User-Blog project is part of UDACITY FULL STACK NANODEGREE.
 * static folder that includes main.css file
 * Templates folder includes all html pages
 
-# Licence
-This blog is licenced under  Â© 2011â€“2016 Udacity, Inc.
+
